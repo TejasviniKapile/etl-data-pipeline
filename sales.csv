@@ -1,0 +1,26 @@
+order_id,customer_name,product,category,quantity,price,order_date,city,status
+1001,Rahul Sharma,Laptop,Electronics,1,55000,2024-01-05,Mumbai,Completed
+1002,Priya Patel,Phone,Electronics,2,18000,2024-01-08,Pune,Completed
+1003,Amit Singh,Desk Chair,Furniture,1,8500,2024-01-10,Delhi,Completed
+1004,Sunita Rao,Headphones,Electronics,3,2500,2024-01-12,Bangalore,Cancelled
+1005,Vijay Kumar,Laptop,Electronics,1,62000,2024-01-15,Mumbai,Completed
+1006,Meena Joshi,Bookshelf,Furniture,2,4500,2024-01-18,Nashik,Completed
+1007,Ravi Desai,Mouse,Electronics,5,800,2024-01-20,Pune,Completed
+1008,Anita Gupta,Table,Furniture,1,12000,2024-01-22,Delhi,Pending
+1009,Suresh Nair,Keyboard,Electronics,2,1500,2024-02-01,Chennai,Completed
+1010,Kavita Shah,Phone,Electronics,1,22000,2024-02-03,Mumbai,Completed
+1011,Deepak Verma,Monitor,Electronics,2,15000,2024-02-07,Bangalore,Completed
+1012,Pooja Mehta,Sofa,Furniture,1,35000,2024-02-10,Nashik,Completed
+1013,Arun Pillai,Laptop,Electronics,,48000,2024-02-12,Hyderabad,Completed
+1014,Rekha Iyer,Webcam,Electronics,3,2200,2024-02-15,Chennai,Cancelled
+1015,Nikhil Jain,Wardrobe,Furniture,1,28000,2024-02-18,Jaipur,Completed
+1016,Shruti Sharma,Tablet,Electronics,2,18500,2024-02-20,Mumbai,Completed
+1017,Manish Tiwari,Printer,Electronics,1,9500,2024-03-02,Delhi,Pending
+1018,Lakshmi Reddy,Dining Table,Furniture,1,22000,2024-03-05,Hyderabad,Completed
+1019,Sanjay Gupta,USB Hub,Electronics,4,650,2024-03-08,Pune,Completed
+1020,Nandini Pillai,Phone,Electronics,1,31000,2024-03-12,Bangalore,Completed
+1021,Rohit Sharma,Laptop,Electronics,1,71000,2024-03-15,Mumbai,Completed
+1022,Sneha Patil,Curtains,Furniture,3,1800,2024-03-18,Nashik,Completed
+1023,Kiran Bhat,SSD Drive,Electronics,2,4500,2024-03-20,Bangalore,Completed
+1024,Manoj Kumar,TV,Electronics,1,45000,2024-03-22,Delhi,Completed
+1025,Divya Agarwal,Bed,Furniture,,32000,2024-03-25,Jaipur,Pending
